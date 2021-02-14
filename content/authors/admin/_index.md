@@ -62,16 +62,16 @@ social:
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
-icon_pack: ai
-link: media/resume.pdf
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a joint funded Priestley Birmingham - Melbourne PhD fellow at the Institute for Mental Health and the Centre for Human Brain Health. My research investigates the heterogeneity of depression and psychosis and recovery prediction utilizing neuroimaging, metabolic, and clinical data in a machine learning framework. https://www.birmingham.ac.uk/research/mental-health/phd-research/plasousis.aspx
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
